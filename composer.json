@@ -1,0 +1,6 @@
+{
+    "require": {
+        "abraham/twitteroauth": "^2.0",
+        "monkeylearn/monkeylearn-php": "^3.3"
+    }
+}
